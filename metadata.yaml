@@ -1,0 +1,52 @@
+_repo: Le-Grand-Meaulnes_5781
+creator:
+  author:
+    agent_name: Alain-Fournier
+    aliases:
+    - Fournier, Alain
+    - Fournier, Henri-Alban
+    - Alain-Fournier, Henri
+    birthdate: 1886
+    deathdate: 1914
+    gutenberg_agent_id: '1872'
+    url: http://www.gutenberg.org/2009/agents/1872
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Alain-Fournier
+    - http://fr.wikipedia.org/wiki/Alain-Fournier
+description: "Le Grand Meaulnes is the only novel by French author Alain-Fournier.\
+  \ Fifteen-year-old François Seurel narrates the story of his relationship with seventeen-year-old\
+  \ Augustin Meaulnes as Meaulnes searches for his lost love. Impulsive, reckless\
+  \ and heroic, Meaulnes embodies the romantic ideal, the search for the unobtainable,\
+  \ and the mysterious world between childhood and adulthood.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5781'
+  wikidata: Q1198839
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- !lcsh 'First loves -- Fiction'
+- !lcsh 'Teenage boys -- Fiction'
+- !lcsh 'France -- Fiction'
+title: Le Grand Meaulnes
+url: http://www.gutenberg.org/ebooks/5781
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Grand_Meaulnes
+- https://sh.wikipedia.org/wiki/Le_Grand_Meaulnes
+- https://pt.wikipedia.org/wiki/Le_Grand_Meaulnes
+- https://ast.wikipedia.org/wiki/El_gran_Meaulnes
+- https://pl.wikipedia.org/wiki/M%C3%B3j_przyjaciel_Meaulnes
+- https://fa.wikipedia.org/wiki/%D9%85%D9%88%D9%86_%D8%A8%D8%B2%D8%B1%DA%AF
+- https://de.wikipedia.org/wiki/Der_gro%C3%9Fe_Meaulnes
+- https://es.wikipedia.org/wiki/El_gran_Meaulnes
+- https://en.wikipedia.org/wiki/Le_Grand_Meaulnes
+- https://it.wikipedia.org/wiki/Il_grande_Meaulnes
+- https://ca.wikipedia.org/wiki/El_gran_Meaulnes
+- https://oc.wikipedia.org/wiki/Lo_grand_Meaulnes
