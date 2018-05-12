@@ -1,5 +1,8 @@
 _repo: Le-Grand-Meaulnes_5781
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alain-Fournier
@@ -20,6 +23,8 @@ description: "Le Grand Meaulnes is the only novel by French author Alain-Fournie
   \ and heroic, Meaulnes embodies the romantic ideal, the search for the unobtainable,\
   \ and the mysterious world between childhood and adulthood.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5781#Le-Grand-Meaulnes
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
